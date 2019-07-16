@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+      position: relative;
+    font-size: 24px;
+    width: 960px;
+    color: #333;
+  }
+  
+  header {
+    padding: 0px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #FFA500;
+  }
+
+  .Main-Header {
+    padding: 0px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #FFA500;
+  }
+
+  .Main-Body {
+    padding: 0px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #FFA500;
+  }
+  
+  footer {
+      padding: 10px;
+    clear: both;
+    background: #FFA500;
+  }
+  
