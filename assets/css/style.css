@@ -3,20 +3,19 @@
     text-align: center;
   }
 
-  .container {
+  .container1 {
     width: 960px;
   }
   
   body {
-      position: relative;
     font-size: 24px;
-    width: 960px;
+    width: 100%;
     color: rgb(51, 51, 51);
   }
   
   header {
     font-family: 'Georgia', Times, Times New Roman, serif; 
-    padding: 0px;
+    padding: 0em;
     margin-bottom: 0px;
     color: #333;
     background: #4aaaa5;
