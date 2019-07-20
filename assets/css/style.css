@@ -1,5 +1,5 @@
 * {
-    box-sizing: content-box;
+    box-sizing: inherit;
     text-align: center;
   }
 
@@ -27,7 +27,7 @@
     padding: 0px;
     margin-bottom: 0px;
     color: #4aaaa5;
-    background: #FFA500;
+    background: #ffffff;
   }
 
   .Main-Body {
@@ -35,11 +35,12 @@
     padding: 0px;
     margin-bottom: 20px;
     color: #333;
-    background: #FFA500;
+    background: #ffffff;
   }
   
   footer {
       padding: 10px;
-    background: #FFA500;
+      margin-bottom: 20px;
+    background: #ffffff;
   }
   
